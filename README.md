@@ -3,6 +3,6 @@ Objective: To build a app that can predict the wastage of sample before sample c
 
 Technologies used: python(Machine learning),html,css,java,Heroku(deployment)
 
-concepts used: ML supervised Learnin(classification)
+concept used: ML supervised Learning(classification)
 
-<h1> <a href="https://appointmentschedulermed.herokuapp.com/">click here</a>to view my project<h1>
+<h1> <a href="https://medical-sample-streamline.herokuapp.com/">click here</a>to view my project<h1>
