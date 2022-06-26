@@ -1,5 +1,5 @@
 # Medical Sample collection process Streamline
-Objective: To build a app that can predict the wastage of medical sample before sample collection under certain conditions
+Objective: To build a app that can predict the  of medical sample before sample collection under certain conditions
 
 Technologies used: python(Machine learning),html,css,java,Heroku(deployment)
 
