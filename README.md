@@ -6,4 +6,3 @@
 
 <h4>Concept used: ML supervised Learning(classification)</h4>
 
-<h1> <a href="https://medical-sample-streamline.herokuapp.com/">click here</a>to view my project</h1>
